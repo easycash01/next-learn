@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 export default function Contatti() : React.ReactNode {
     return(
         <div className="flex flex-col items-center justify-center h-screen">
-            <h1 className="text-9xl font-bold">PAGINA DEI CONTATTIa</h1>
+            <h1 className="text-9xl font-bold">PAGINA DEI CONTATTI</h1>
         </div>
     ) 
 }   
